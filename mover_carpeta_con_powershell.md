@@ -64,7 +64,3 @@ Puedes abrirlo para crear el Pull Request y completar el proceso.
 ✔ Los cambios ya están en la rama mover-carpeta-conceptos-a-aws.
 ✔ Solo queda revisar y fusionar el Pull Request.
 
-## 📁 Moviendo otra carpeta: "02 - Procesamiento en la Nube"
-
-Este es el procedimiento completo realizado en PowerShell para mover la carpeta **"02 - Procesamiento en la Nube"** al destino dentro del repositorio.
-
