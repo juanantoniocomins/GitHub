@@ -36,3 +36,13 @@ git commit -m "Renombrado archivo: Introducción a Amazon EC2 → Fundamentos de
 # 6. Subir la rama al repositorio remoto
 git push origin renombrar-fichero-ec2
 
+✅ Próximo paso: Pull Request en GitHub
+
+Abrir el repositorio en GitHub.
+Verás una notificación indicando que la nueva rama puede convertirse en Pull Request.
+Revisar los cambios.
+Crear el Pull Request y fusionarlo cuando esté aprobado.
+
+✔ El archivo se renombró correctamente manteniendo su historial.
+✔ Los cambios fueron confirmados en un commit y subidos al repositorio remoto.
+✔ GitHub refleja la nueva ubicación y nombre del archivo.
