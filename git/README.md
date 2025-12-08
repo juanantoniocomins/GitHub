@@ -47,6 +47,6 @@ Visualizaciones para entender flujos de trabajo:
 
 
 main ──●──●──●─────────●<br/>
-\ (merge)
+\ (merge)<br/>
 ──●──●──●────●── feature/login
 
