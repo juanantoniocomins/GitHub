@@ -46,3 +46,7 @@ Opciones avanzadas para cuando necesitas “arreglar” commits:
 Visualizaciones para entender flujos de trabajo:
 
 
+main ──●──●──●─────────●
+\ (merge)
+──●──●──●────●── feature/login
+
