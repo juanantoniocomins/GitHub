@@ -75,13 +75,13 @@ Este proyecto está pensado para:
 
 ## 📘 Estructura recomendada
 
-📁 git-guide/
-├── 📄 01-git-init.md
-├── 📄 02-git-add-commit.md
-├── 📄 03-git-branching.md
-├── 📄 04-git-remote.md
-├── 📄 05-git-advanced.md
-└── 📄 README.md
+📁 git-guide/<br/>
+├── 📄 01-git-init.md<br/>
+├── 📄 02-git-add-commit.md<br/>
+├── 📄 03-git-branching.md<br/>
+├── 📄 04-git-remote.md<br/>
+├── 📄 05-git-advanced.md<br/>
+└── 📄 README.md<br/>
 
 ---
 
