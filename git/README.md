@@ -50,3 +50,49 @@ main ──●──●──●─────────●<br/>
 \ (merge)<br/>
 ──●──●──●────●── feature/login
 
+---
+
+## 🚀 Objetivo del repositorio
+
+Este proyecto está pensado para:
+
+- Aprender Git desde cero.  
+- Tener una referencia rápida para comandos.  
+- Ver ejemplos prácticos y casos reales.  
+- Comprender flujos de trabajo profesionales.  
+- Evitar errores comunes (y aprender a salir de ellos).
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- Git  
+- GitHub  
+- Markdown  
+- Diagramas ASCII  
+
+---
+
+## 📘 Estructura recomendada
+
+📁 git-guide/
+├── 📄 01-git-init.md
+├── 📄 02-git-add-commit.md
+├── 📄 03-git-branching.md
+├── 📄 04-git-remote.md
+├── 📄 05-git-advanced.md
+└── 📄 README.md
+
+---
+
+## 🤝 Contribuciones
+
+Las aportaciones son bienvenidas.  
+Si encuentras algo que mejorar, abre un **issue** o envía un **pull request**.
+
+---
+
+## 📜 Licencia
+
+Este proyecto está bajo la licencia MIT.
+
