@@ -1,4 +1,4 @@
-🎯 Comando #6: git branch - Trabajo Paralelo
+# 🎯 Comando #6: git branch - Trabajo Paralelo
 
 🌳 El problema del "camino único":
 
