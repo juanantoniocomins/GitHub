@@ -1,4 +1,4 @@
-🎯 Comando #2: git add - Preparando Cambios
+# 🎯 Comando #2: git add - Preparando Cambios
 
 📦 El problema del "limbo de archivos":
 
