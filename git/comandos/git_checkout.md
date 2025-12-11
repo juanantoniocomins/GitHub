@@ -1,4 +1,4 @@
-🎯 Comando #7: git checkout - Navegación Inteligente
+# 🎯 Comando #7: git checkout - Navegación Inteligente
 
 🧭 El problema del "estancamiento":
 
