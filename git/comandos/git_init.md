@@ -1,4 +1,5 @@
-🎯 Comando #1: git init - El Punto de Partida
+# 🎯 Comando #1: git init - El Punto de Partida
+
 🏁 El problema tradicional:
 ```text
 Tienes una carpeta con archivos:
