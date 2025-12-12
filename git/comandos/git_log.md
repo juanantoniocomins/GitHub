@@ -1,4 +1,4 @@
-🎯 Comando #5: git log - La Máquina del Tiempo
+# 🎯 Comando #5: git log - La Máquina del Tiempo
 
 ⏳ El problema del "olvido":
 
