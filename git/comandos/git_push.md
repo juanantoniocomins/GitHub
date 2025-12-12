@@ -1,4 +1,4 @@
-🎯 Comando #10: git push - Compartir tu Trabajo
+# 🎯 Comando #10: git push - Compartir tu Trabajo
 
 📤 El problema del "trabajo aislado":
 
