@@ -1,4 +1,4 @@
-🎯 Comando #12: git remote - Conectar con el Mundo
+# 🎯 Comando #12: git remote - Conectar con el Mundo
 
 🌐 El problema del "aislamiento":
 
