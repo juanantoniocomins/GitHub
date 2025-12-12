@@ -1,4 +1,4 @@
-🎯 Comando #4: git status - El Dashboard de Git
+# 🎯 Comando #4: git status - El Dashboard de Git
 
 📊 El problema de la "ceguera":
 
